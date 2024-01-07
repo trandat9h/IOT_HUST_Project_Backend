@@ -1,0 +1,10 @@
+SQLAlchemy
+aiomysql
+loguru
+httpx
+motor
+pydantic==1.10.5
+fastapi~=0.95.2
+elasticsearch[async]
+PyJWT
+asyncio-mqtt
